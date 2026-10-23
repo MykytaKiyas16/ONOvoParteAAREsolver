@@ -1,3 +1,9 @@
-# Título
+Parte A — Reprodução de uma composição geométrica
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut euismod convallis magna ut pulvinar. Nulla iaculis, metus in semper vestibulum, lorem quam fringilla tellus, eu varius leo dui ac neque. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed faucibus ultrices ante, ut suscipit est euismod ut. Duis sit amet dictum turpis. Fusce non turpis porta nisi iaculis eleifend. Donec eget lobortis risus. Proin molestie tincidunt elit. Donec a enim ac neque tristique molestie. Sed nibh massa, dignissim at ipsum non, volutpat aliquam erat. Sed tincidunt quis urna a semper. Phasellus leo orci, imperdiet et ullamcorper non, finibus eu nunc. Duis vel ligula ac orci tincidunt aliquam. Suspendisse potenti. Sed congue lectus at aliquet cursus. 
+Neste trabalho, reproduzi uma composição geométrica utilizando a biblioteca p5.js. A composição é formada por quadriláteros e retângulos de diferentes tamanhos, organizados numa tela de 800 × 800 píxeis.
+
+Utilizei o preto como cor de fundo e escolhi quatro cores principais para as formas: vermelho, branco, amarelo e azul. Organizei os elementos em diferentes posições e dimensões, procurando respeitar a disposição, as proporções e o equilíbrio visual da composição original.
+
+Para construir as formas, utilizei a função quad(), que permite definir os quatro vértices de cada quadrilátero através de coordenadas. A função fill() foi utilizada para definir as cores, enquanto noStroke() removeu os contornos das formas, criando um resultado mais simples e limpo.
+
+O objetivo foi reproduzir a composição através de formas geométricas, coordenadas e cores, explorando os princípios da organização visual e da relação entre os diferentes elementos.
